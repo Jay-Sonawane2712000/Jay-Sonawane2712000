@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jay-Sonawane2712000
 - 👀 I’m interested in ...data science 
-- 🌱 I’m currently learning ...Sci-kit learn library, Machine learning, How to identify outliers & other libaries in Python 
+- 🌱 I’m currently learning ...scikit-learn library, Machine learning, How to identify outliers & other libaries in Python 
 - 💞️ I’m looking to collaborate on ...Twitter
 - 📫 How to reach me ...jaysonawane2712000@gmail.com 
 
