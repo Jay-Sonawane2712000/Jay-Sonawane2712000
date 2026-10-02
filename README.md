@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Jay-Sonawane2712000
+# Hi, I’m Jay 👋
+
 - 👀 I’m interested in data science.
 - 🌱 I’m currently learning the scikit-learn library, machine learning, how to identify outliers, and other libraries in Python.
 - 💞️ I’m looking to collaborate on Twitter.
