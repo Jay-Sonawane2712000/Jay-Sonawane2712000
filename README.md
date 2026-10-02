@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Jay-Sonawane2712000
-- 👀 I’m interested in ...data science 
-- 🌱 I’m currently learning ...scikit-learn library, Machine learning, How to identify outliers & other libaries in Python 
-- 💞️ I’m looking to collaborate on ...Twitter
-- 📫 How to reach me ...jaysonawane2712000@gmail.com 
+- 👀 I’m interested in data science.
+- 🌱 I’m currently learning the scikit-learn library, machine learning, how to identify outliers, and other libraries in Python.
+- 💞️ I’m looking to collaborate on Twitter.
+- 📫 How to reach me: jaysonawane2712000@gmail.com
 
 <!---
 Jay-Sonawane2712000/Jay-Sonawane2712000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
