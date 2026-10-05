@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in data science and machine learning.
 - 🌱 I’m currently learning the scikit-learn library, machine learning, how to identify outliers, and other libraries in Python.
-- 💞️ I’m looking to collaborate on Twitter.
+- 💞️ I’m looking to collaborate on Twitter and other data-science projects.
 - 📫 How to reach me: jaysonawane2712000@gmail.com
 
 <!---
